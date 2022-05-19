@@ -1,3 +1,8 @@
+To update the project packages:
+```
+npm i @reduxjs/toolkit @testing-library/jest-dom @testing-library/react @testing-library/user-event eslint-config-airbnb eslint-plugin-react prop-types react react-dom react-redux react-router-dom react-scripts redux redux-logger redux-thunk web-vitals react-test-renderer
+```
+
 # Project Name
 
 > This repository contains React Redux Template.
