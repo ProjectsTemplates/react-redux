@@ -53,7 +53,7 @@ npm run build
 
 ## Authors
 
-👤 **Author1**
+👤 **RaoAkif**
 
 - GitHub: [@RaoAkif](https://github.com/RaoAkif)
 - Twitter: [@RaoAkif](https://twitter.com/RaoAkif)
